@@ -1,4 +1,4 @@
-# assesment
+# assesment of 32-bit floating point format
 def decimal_to_ieee754(decimal_value):
     """Converts a decimal value to its IEEE 754 32-bit floating-point representation.
 
